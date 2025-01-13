@@ -1,0 +1,7 @@
+{
+	"name": "Kuramoto_EMC_data_generate",
+	"build": {
+		"context": "..",
+		"dockerfile": "Dockerfile"
+	}
+}

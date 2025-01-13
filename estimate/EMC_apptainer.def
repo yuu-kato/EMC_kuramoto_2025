@@ -1,0 +1,9 @@
+# 24-11-12
+# Apptainer definition file
+# The same as Dockerfile in "estimate/.devcontainer"
+Bootstrap: docker
+From: ubuntu:noble-20241011
+
+%post
+    apt-get update
+    apt-get install -y build-essential libomp-dev 

@@ -1,0 +1,2 @@
+gamma_true,K_true,sigma,t_max,N,seed,L_rep,b_max,b_ratio,alpha_gamma,beta_gamma,alpha_delta_gamma,beta_delta_gamma,C_gamma,C_delta_gamma,d_gamma,d_delta_gamma,exchange_freq,simulation_size,burn_in,targer_accept,range_accept
+0.08,0.05,0.1,50,101,1334,50,1.5e+06,1.5,0,1,0,1,0.01,0.01,1,1,2,100000,50000,0.6,0.05

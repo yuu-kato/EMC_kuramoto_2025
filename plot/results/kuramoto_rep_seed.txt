@@ -1,0 +1,5 @@
+subj=10.0, seed=439.0, K_infer=0.219366, gamma_infer=0.137455 
+subj=100.0, seed=1459.0, K_infer=-0.0251104, gamma_infer=0.0548462 
+subj=1000.0, seed=2419.0, K_infer=0.0740281, gamma_infer=0.0873126 
+subj=10000.0, seed=3573.0, K_infer=0.0574909, gamma_infer=0.0823043 
+subj=100000.0, seed=4032.0, K_infer=0.0523621, gamma_infer=0.0807354 
