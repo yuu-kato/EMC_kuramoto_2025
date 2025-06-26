@@ -1,0 +1,2 @@
+gamma_true,K_true,mu,t_max,N,dt
+0.08,0.05,0,10000,20001,0.001
